@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**freesmarties/freesmarties** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"
+  
+ ────୨ৎ────
+<p align="center"
+<p><img src= "<img src="https://i.pinimg.com/736x/39/b8/74/39b8740004b305f9a8df919443afacb8.jpg" /><img width="736" height="760" alt="image" src="https://github.com/user-attachments/assets/f07d31ed-9f88-4a85-9673-0de625bc6d96" />
 
-Here are some ideas to get you started:
+<p align="center"
+<p><img src="<img src="https://blinkies.neocities.org/b/display/0072-lesbian.gif"/><img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/657487ab-d24d-45f1-af09-56c9e648e7f5" />
+"></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"
+
+────୨ৎ────
+<p align="center"
+
+art creds: @arsterial on pinterest
