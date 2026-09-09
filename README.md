@@ -13,5 +13,6 @@
 
 ────୨ৎ────
 <p align="center"
-
-art creds: @arsterial on pinterest
+hello
+I don't know how to code
+sorry if this sucks I'm trying my best
