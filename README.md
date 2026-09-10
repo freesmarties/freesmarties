@@ -14,14 +14,10 @@
 <p align="center"
 
 hello my name is floral and i am a gal that sucks at coding. apologies if this looks messy this is my second time doing this LOL
-<p align="cente
-
-
-
-
+<p align="center"
 
 
 <p align="center"
-
+  
 ────୨ৎ────
 <p align="center"
