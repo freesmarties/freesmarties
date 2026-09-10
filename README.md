@@ -13,8 +13,8 @@
 <img src="https://i.pinimg.com/originals/1a/c8/a2/1ac8a2d3d534aa4d1b2d9a73e055e7dc.gif" alt="This may contain: an owl wearing a top hat and holding a key to unlock the lock on his chest"/>
 <p align="center"
 
-hello! my name is floral and I suck at coding. apologies if this looks messy this is my first time doing it LOL
-<p align="center"
+hello my name is floral and i am a gal that sucks at coding. apologies if this looks messy this is my second time doing this LOL
+<p align="cente
 
 
 
