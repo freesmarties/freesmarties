@@ -4,7 +4,8 @@
   
  
 <p align="center"
-<img src="https://i.pinimg.com/736x/e1/90/25/e190257b33326084cd2427cdbaf48809.jpg" alt="Story pin image"/><img width="735" height="592" alt="image" src="https://github.com/user-attachments/assets/8fbbc583-032f-40bf-9c13-1c043628d4f4" />
+<img src="https://i.pinimg.com/736x/65/72/78/657278f28b20328e3fa722cf4d4839b4.jpg" alt="Story pin image"/><img width="736" height="795" alt="image" src="https://github.com/user-attachments/assets/b5727193-ed27-4840-8517-86eed9ddf135" />
+
 <p align="center"
 
 ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 .
