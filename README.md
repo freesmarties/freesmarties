@@ -1,5 +1,5 @@
-<img width="1280" height="467" alt="image" src="https://github.com/user-attachments/assets/a70b2f8b-bc64-4f36-b6b4-03c455dd88bf" />
-
+<p align="center"
+<img src="https://i.pinimg.com/736x/af/a5/a2/afa5a21a4a44cd8b337a418662821257.jpg" alt="This may contain: two white teddy bears with pink bows on their ears and noses are sitting side by side"/><img width="736" height="278" alt="image" src="https://github.com/user-attachments/assets/1eb13d9a-fb7b-4a69-9217-547a37f2c3e4" />
 <p align="center"
   
  
